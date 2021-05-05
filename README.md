@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Here's where you can find code related to the projects described in [Placemaking Report](https://placemakingreport.com). 
 <!--
 **dcdenison/dcdenison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
