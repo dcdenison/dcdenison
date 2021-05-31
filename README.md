@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Here's where you can find code related to the projects described in [Placemaking Report](https://placemakingreport.com). 
 - Most of the projects have passed through [District Hall](https://districthallboston.org), in Boston.
-- To follow this project from the beginning, start here: [How This Started](https://placemakingreport.com/how-this-started)
+- To follow this project from the beginning, begin here: [How This Started](https://placemakingreport.com/how-this-started)
 <!--
 **dcdenison/dcdenison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
